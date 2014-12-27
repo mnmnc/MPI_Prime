@@ -29,3 +29,14 @@ Prime number calculation with MPI
   Sum mod 123:		  97
   Time spent:		  0.687557
 ```
+
+```bash
+ 16:43:42 jade > mpiexec -n 4 ./mpiprime
+  Number given:          10000000
+  Number of primes:      664579
+  Sum of primes:         3203324994356
+  Sum mod 123:           5
+  Time spent:            8319.9
+```
+
+
