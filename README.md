@@ -1,4 +1,4 @@
-MPI_Prime
+MPI_Prime :neckbeard:
 =========
 
 Prime number calculation with MPI
